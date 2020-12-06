@@ -1,4 +1,4 @@
-# js-cart-setup
+# cakeshop
 
 PROBLEM: The local coffee shop seeks to increase customers coming to the shop and using a website to promote sales. The coffee shop seeks to enhance their brand with a simple, mobile-first, website that showcases their coffee. The website is a single-page site consisting of various sections including Home, About, Work, and Contact.
 
